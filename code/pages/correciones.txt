@@ -1,0 +1,18 @@
+Search bar responsive
+Search bar, mostrar productos a medida que se escriba
+
+
+------opcional------
+Agregar libros, pelis y series
+
+
+---------COMPLETADO---------
+Index dont show "comenzar ahora" if registered
+Register redirect to libros
+Sign out redirect to index
+Agregar username al register
+Cambiar user ID por username
+Puntuacion / 10
+Cada producto en su pagina de lista mostrar el tipo de producto
+
+
